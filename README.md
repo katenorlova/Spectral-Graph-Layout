@@ -1,1 +1,3 @@
 # Spectral-Graph-Layout
+
+Graphs are widely used to model complex relational data such as computer networks, brainconnectomics, protein-protein interactions, and communication patterns within social media. Tovisualize graphs, various techniques have been developed in the graph drawing and informationvisualization literature.  This project focuses on the use of spectral graph drawing techniquesand other mathematical tools to create a two-dimensional (2D) representation of the graph of asparse matrix. In the results, three algorithms for spectral graph layout were implemented andcomputational experiments were performed using a collection of graphs to compare the performanceof the algorithms.
